@@ -1,4 +1,4 @@
-from Note import Note
+from src.Note import Note
 from unittest import TestCase
 from assertpy import assert_that
 
